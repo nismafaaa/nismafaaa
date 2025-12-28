@@ -92,11 +92,6 @@ I am an Informatics Engineering student at **Brawijaya University** (GPA 3.74) a
 
 ---
 
-### 📊 GitHub Stats
-[![Nisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=nismafaaa)]
-
----
-
 ### 📫 Connect with Me
 * 📍 Malang, Indonesia
 * 📧 [nisma.aro@gmail.com](mailto:nisma.aro@gmail.com)
