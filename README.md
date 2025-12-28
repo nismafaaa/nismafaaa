@@ -93,9 +93,7 @@ I am an Informatics Engineering student at **Brawijaya University** (GPA 3.74) a
 ---
 
 ### 📊 GitHub Stats
-
-![Nisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=nismafaaa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nismafaaa&layout=compact&theme=radical)
+[![Nisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=nismafaaa)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
