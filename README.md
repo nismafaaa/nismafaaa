@@ -1,8 +1,8 @@
-# Hi there, I'm Nisma Fadillah Abdul Rahman Onge! 👋
+# Hi there, I'm Nisma! 👋
 
 ### 🤖 AI Engineer | 📊 Data Scientist | 🔬 Researcher
 
-[cite_start]I am an Informatics Engineering student at **Brawijaya University**[cite: 8, 9] [cite_start]and a member of the **Intelligent Systems Research Group (ISRG)**[cite: 11]. My passion lies at the intersection of deep learning research and practical software engineering. I specialize in building end-to-end AI solutions—from training deep learning models to deploying scalable MLOps pipelines.
+I am an Informatics Engineering student at **Brawijaya University** (GPA 3.74) and a member of the **Intelligent Systems Research Group**. My passion lies at the intersection of deep learning research and practical software engineering. I specialize in building end-to-end AI solutions—from training deep learning models to deploying scalable MLOps pipelines.
 
 ---
 
@@ -77,17 +77,17 @@
 ### 💼 Experience
 
 **🤖 AI Engineer Junior @ Smart ID**
-[cite_start]*(July 2025 - Present)* [cite: 135, 137]
+*(July 2025 - Present)*
 * Designing AI workflows using **n8n** and **LLMs** for automated employee profiling and career path suggestions.
 * Built a RAG-based chatbot assisting users with app navigation and course inquiries.
 
 **🦷 AI Engineer Intern @ PT. Sekawan Media Informatika**
-[cite_start]*(May 2025 - Sept 2025)* [cite: 141, 142]
+*(May 2025 - Sept 2025)*
 * Developed a **YOLO-based** vision model for self-screening dental diseases (caries, gingivitis).
 * Built "Ogi," an instruction-tuned LLM chatbot for dental health consultation.
 
 **🎓 Practicum Assistant (Advanced AI)**
-[cite_start]*(Feb 2025 - June 2025)* [cite: 145, 147]
+*(Feb 2025 - June 2025)*
 * Mentored 38 students in Python, Data Preprocessing, and Machine Learning implementation.
 
 ---
